@@ -1,6 +1,3 @@
-# machine-learning-data-preparation-eda
-End-to-end data preparation and exploratory data analysis workflow for machine learning.
-
 # Machine Learning – Data Preparation & Exploratory Data Analysis
 
 ## Overview
